@@ -1,0 +1,25 @@
+{
+  "name": "eslint-config-buzzi",
+  "version": "1.0.0",
+  "description": "ESLint Config for Buzzi Node.js Projects",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buzzi-io/eslint-config-buzzi.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "buzzi"
+  ],
+  "author": "Swarming Technology",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/buzzi-io/eslint-config-buzzi/issues"
+  },
+  "homepage": "https://github.com/buzzi-io/eslint-config-buzzi#readme",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
