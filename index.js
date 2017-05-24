@@ -93,7 +93,7 @@ module.exports = {
     "no-this-before-super": 2,
     "no-useless-constructor": 1,
     "no-var": 2,
-    "object-shorthand": [2, "consistent-as-needed"],
+    "object-shorthand": [2, "properties"],
     "prefer-arrow-callback": 0,
     "prefer-const": 0,
     "prefer-destructuring": 0,
